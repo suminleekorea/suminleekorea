@@ -1,39 +1,38 @@
 # Hi, I'm Sumin 👋  
 
-🎓 MSBA Candidate '26 @ Nanyang Technological University, Singapore  
-📊 Analytical Marketer from Korea, passionate about data-driven business impact  
-🌍 Based in Singapore, originally from Korea  
+🎓 MSBA '26 @ Nanyang Technological University (Singapore)  
+📊 Analytical Marketer from Korea, based in Singapore  
+💡 Experienced in SQL, Python, Marketing Analytics → turning consumer data into business impact  
 
 ---
 
-## 🔎 About Me
-- Skilled in **SQL, Python, R** for data analysis & business insights  
-- Experienced in **Marketing Analytics, Consumer Insights, and Data Visualization**  
-- Interested in applying **AI & Machine Learning** to solve real-world business problems  
+## 🔧 Tech Stack  
+- Programming: Python, R, SQL  
+- Analytics: Marketing Analytics, Data Visualization, Predictive Modeling  
+- Tools: Tableau, PowerBI, Excel, GitHub  
 
 ---
 
-## 🛠 Tech Stack
-- **Programming & Analytics**: Python (Pandas, NumPy, Matplotlib), R, SQL  
-- **Business Tools**: Tableau, Excel, Power BI  
-- **Marketing Analytics**: A/B Testing, Customer Segmentation, Churn Analysis  
-- **Other**: Git/GitHub, Jupyter, Google Analytics  
+## 📂 Featured Projects  
+- `churn_report`: Customer churn analysis (Python + SQL + Tableau)  
+- `marketing_mix_model`: Media ROI optimization with regression analysis  
+- `segmentation`: Customer clustering with K-means & RFM analysis  
 
 ---
 
-## 📂 Featured Projects
-🔹 [Churn Report (AN6004)](https://github.com/suminleekorea/churn_report) – Exploratory data analysis on telecom churn  
-🔹 [SQL Queries for Business Trends](https://github.com/suminleekorea/sql_practice) – SQL scripts for case studies  
-🔹 [Marketing Campaign Dashboard](https://github.com/suminleekorea/marketing_dashboard) – Visualization project  
+## 📊 GitHub Stats  
 
----
+![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=suminleekorea&show_icons=true&theme=tokyonight)  
 
-## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/suminleekorea](https://linkedin.com/in/suminleekorea)  
-- Blog: [suminlee.blog](https://suminlee.blog)  
-- Email: sumin005@e.ntu.edu.sg  
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suminleekorea&show_icons=true&theme=tokyonight)  
+### 🔥 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suminleekorea&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me  
+- 🌍 [Portfolio Blog](https://suminlee.blog)  
+- 💼 [LinkedIn](https://linkedin.com/in/suminleekorea)  
+- 📧 Email: sumin005@e.ntu.edu.sg  
+
+---
+✨ Always learning, always building 🚀
