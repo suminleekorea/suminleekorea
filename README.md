@@ -1,39 +1,39 @@
-# Hi, I'm Sumin 👋
+# Hi, I'm Sumin 👋  
 
-🎯 **Data-driven Marketer | MSBA Candidate (NUS, 2025)**  
-📊 From Korea 🇰🇷, currently based in Singapore 🇸🇬 and seeking marketing analytics opportunities.
-
----
-
-## 🔍 About Me
-- Skilled in **SQL, Python, Excel, Tableau**, and marketing data tools  
-- Experienced in **A/B testing, CRM segmentation, attribution modeling, RFM & CLV analysis**  
-- Passionate about turning **consumer data into actionable marketing strategies**  
-- Background in **business & operations**, now pivoting into **analytics-driven marketing**
+🎓 MSBA Candidate '26 @ Nanyang Technological University, Singapore  
+📊 Analytical Marketer from Korea, passionate about data-driven business impact  
+🌍 Based in Singapore, originally from Korea  
 
 ---
 
-## 📂 Featured Projects
-- ✈️ [Airline Customer CLV Analysis](./projects/airline_customer_clv)  
-  *Segmentation + CLV modeling to identify high-value travelers and retention strategies.*  
-- 📊 [Excel RFM Analysis](./projects/rfm_excel_foundations)  
-  *Customer segmentation using Recency-Frequency-Monetary framework.*  
-- 🎥 [Data-Driven Advertisement](./projects/debate_statistical_ad)  
-  *Campaign pitch backed by statistical insights.*  
-- 💻 [Programming Essentials for Marketing](./projects/programming_essentials)  
-  *Streamlit app for building simple marketing landing pages.*  
+## 🔎 About Me
+- Skilled in **SQL, Python, R** for data analysis & business insights  
+- Experienced in **Marketing Analytics, Consumer Insights, and Data Visualization**  
+- Interested in applying **AI & Machine Learning** to solve real-world business problems  
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages**: SQL, Python (pandas, scikit-learn), R  
-- **Analytics & Viz**: Tableau, Excel, Power BI, matplotlib/plotly  
-- **Marketing Tools**: Google Analytics, Meta Ads Manager  
-- **Other**: Git, Streamlit, Jupyter
+- **Programming & Analytics**: Python (Pandas, NumPy, Matplotlib), R, SQL  
+- **Business Tools**: Tableau, Excel, Power BI  
+- **Marketing Analytics**: A/B Testing, Customer Segmentation, Churn Analysis  
+- **Other**: Git/GitHub, Jupyter, Google Analytics  
 
 ---
 
-## 📫 Connect
-- 🌐 Blog: [suminlee.blog](https://suminlee.blog)  
-- 💼 LinkedIn: [linkedin.com/in/yourlink](https://linkedin.com/in/yourlink)  
-- ✉️ Email: suminlee.analytics@gmail.com
+## 📂 Featured Projects
+🔹 [Churn Report (AN6004)](https://github.com/suminleekorea/churn_report) – Exploratory data analysis on telecom churn  
+🔹 [SQL Queries for Business Trends](https://github.com/suminleekorea/sql_practice) – SQL scripts for case studies  
+🔹 [Marketing Campaign Dashboard](https://github.com/suminleekorea/marketing_dashboard) – Visualization project  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/suminleekorea](https://linkedin.com/in/suminleekorea)  
+- Blog: [suminlee.blog](https://suminlee.blog)  
+- Email: sumin005@e.ntu.edu.sg  
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suminleekorea&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suminleekorea&layout=compact&theme=tokyonight)  
