@@ -2,21 +2,21 @@
 
 🎓 MSBA '26 @ Nanyang Technological University (Singapore)  
 📊 Analytical Marketer from Korea, based in Singapore  
-💡 Experienced in SQL, Python, Marketing Analytics → turning consumer data into business impact  
+💡 Skilled in SQL, Python, and Marketing Analytics — turning consumer data into actionable business insights  
 
 ---
 
 ## 🔧 Tech Stack  
-- Programming: Python, R, SQL  
-- Analytics: Marketing Analytics, Data Visualization, Predictive Modeling  
-- Tools: Tableau, PowerBI, Excel, GitHub  
+- **Programming:** Python, R, SQL  
+- **Analytics:** Marketing Analytics, Data Visualization, Predictive Modeling  
+- **Tools:** Tableau, Power BI, Excel, GitHub  
 
 ---
 
 ## 📂 Featured Projects  
-- `churn_report`: Customer churn analysis (Python + SQL + Tableau)  
-- `marketing_mix_model`: Media ROI optimization with regression analysis  
-- `segmentation`: Customer clustering with K-means & RFM analysis  
+- **churn_report** → Customer churn analysis with SQL + Python + Tableau  
+- **marketing_mix_model** → Media ROI optimization using regression analysis  
+- **segmentation** → Customer clustering with K-means and RFM scoring  
 
 ---
 
@@ -31,8 +31,9 @@
 
 ## 🌐 Connect with Me  
 - 🌍 [Portfolio Blog](https://suminlee.blog)  
-- 💼 [LinkedIn](https://linkedin.com/in/suminleekorea)  
-- 📧 Email: sumin005@e.ntu.edu.sg  
+- 💼 [LinkedIn](https://linkedin.com/in/suminlee-apac)  
+- 📧 Email: **sumin005@e.ntu.edu.sg** / **leewaterfolk@gmail.com**  
 
 ---
-✨ Always learning, always building 🚀
+
+✨ Always learning, always building 🚀  
