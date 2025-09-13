@@ -1,4 +1,4 @@
-# Hi, I'm Sumin 👋  
+# Hi, I'm Sumin...
 
 🎓 MSBA '26 @ Nanyang Technological University (Singapore)  
 📊 Analytical Marketer from Korea, based in Singapore  
