@@ -20,12 +20,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats
 
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=suminleekorea&show_icons=true&theme=tokyonight)  
+![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=suminleekorea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-### 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suminleekorea&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suminleekorea&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=suminleekorea&theme=tokyonight&hide_border=true)
+
 
 ---
 
